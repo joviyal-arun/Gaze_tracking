@@ -1,0 +1,97 @@
+Threshold_Value = 8,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 192,     FP = 83,0.901946108,0.924270073,0.954759661,0.939267501
+,Actual Value,Gazing else where,      FN = 48,     TP = 1013,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 9,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 222,     FP = 53,0.907934132,0.949233716,0.934024505,0.941567696
+,Actual Value,Gazing else where,      FN = 70,     TP =991,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 10,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 244,     FP = 31,0.906437126,0.968937876,0.911404336,0.939290918
+,Actual Value,Gazing else where,      FN = 94,     TP = 967,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 11,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 249,     FP = 26,0.877245509,0.97260274,0.869934025,0.91840796
+,Actual Value,Gazing else where,      FN = 138,     TP = 923,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 12,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 259,     FP = 16,0.865269461,0.982475356,0.845428841,0.90881459
+,Actual Value,Gazing else where,      FN = 164,     TP =  897,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 13,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 265,     FP = 10,0.830838323,0.988304094,0.796418473,0.882045929
+,Actual Value,Gazing else where,      FN = 216,     TP = 845,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 14,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 269,     FP = 6,0.797155689,0.992518703,0.750235627,0.854535695
+,Actual Value,Gazing else where,      FN = 265,     TP = 796,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 15,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 271,     FP = 4,0.785179641,0.99488491,0.7332705,0.844275638
+,Actual Value,Gazing else where,      FN = 283,     TP = 778,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 16,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 275,     FP = 0,0.76497006,1,0.70405278,0.826327434
+,Actual Value,Gazing else where,      FN =  314,     TP = 747,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 17,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN =  275,     FP = 0,0.744011976,1,0.677662582,0.807865169
+,Actual Value,Gazing else where,      FN =  342,     TP =  719,,,,
+,,,,,,,,
+,,,,,,,,
+Threshold_Value = 18,,,,,,,,
+,,,,,,,,
+,,,Predicted Value,,Accuracy,Precision,recall,F1-score
+,,,,,,,,
+,,,Gazing,Gazing else where,,,,
+,,Gazing,      TN = 275,     FP = 0,0.736526946,1,0.668237512,0.801129944
+,Actual Value,Gazing else where,      FN = 352,     TP =  709,,,,

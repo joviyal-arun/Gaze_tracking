@@ -1,0 +1,9 @@
+Threshold Value = 12,,, ,
+Total images = 275,,,,
+,,,,
+,,,,
+,,,Actual Value,
+,,,,
+,,,Gazing,Gazing else where
+,Predicted Value,Gazing,      TP = 259,     FP = 0
+,,Gazing else where,      FN = 16,     TN = 0

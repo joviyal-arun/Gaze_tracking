@@ -1,0 +1,32 @@
+mode: ETH_XGaze
+device: cpu
+model:
+  name: resnet18
+#face_detector:
+  #mode: mediapipe
+  #E:\CHANDRA\mpiigaze_main\data\dlib\
+  #dlib_model_path: data/dlib/shape_predictor_68_face_landmarks.dat
+  #mediapipe_max_num_faces: 3
+  #mediapipe_static_image_mode: false
+gaze_estimator:
+  checkpoint: data/models/eth_gaze/eth-xgaze_resnet18.pth
+  camera_params: data/calib/sample_params.yaml
+  #use_dummy_camera_params: false
+  normalized_camera_params: data/calib/normalized_camera_params_face.yaml
+  normalized_camera_distance: 0.6
+  #image_size: [224, 224]
+demo:
+  use_camera: True
+  display_on_screen: true
+  wait_time: 1
+  #image_path: null
+  video_path: 'video_input/head_straight_eye_straight.avi'
+  output_dir: ''
+  output_file_extension: ''
+  head_pose_axis_length: 0.05
+  gaze_visualization_length: 0.05
+  show_bbox: True
+  show_head_pose: True # if this headpose is false we will not get headpose
+  show_landmarks: True
+  show_normalized_image: False
+  show_template_model: False
